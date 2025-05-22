@@ -1,0 +1,9 @@
+Iniciar entorno virtual
+
+.\venv\Scripts\activate
+
+Iniciar API
+
+python -m uvicorn api_rest:app --reload
+
+Luego, usar postman para enviar datos
