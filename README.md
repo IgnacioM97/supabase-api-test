@@ -12,5 +12,3 @@ Esta API permite:
 
 ```bash
 pip install -r requirements.txt
-
--
