@@ -1,4 +1,5 @@
 # REST API para carga y respaldo de archivos CSV
+# Esta API utiliza archivos locales y los sube a la nube, a una cuenta free de Supabase usando Postgres
 
 Esta API permite:
 
